@@ -157,6 +157,10 @@ class AutomatedLabeling(generics.CreateAPIView):
         configs = AutoLabelingConfig.objects.filter(project=project)
         # Todo: make async calls or celery tasks to reduce waiting time.
         for config in configs:
+            print("=====================================")
+            print(config)
             labels = execute_pipeline(example.data, config=config)
+            print(labels)
             labels.save(project, example, self.request.user)
+            print("=====================================")
         return Response({"ok": True}, status=status.HTTP_201_CREATED)
