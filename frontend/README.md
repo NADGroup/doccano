@@ -1,6 +1,6 @@
-# doccano-client
+# OOSINC Annotator-client
 
-> doccano client
+> OOSINC Annotator client
 
 ## Build Setup
 

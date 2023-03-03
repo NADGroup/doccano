@@ -1,6 +1,6 @@
 export default {
   home: 'Startseite',
-  welcome: 'Willkommen bei Doccano!',
+  welcome: 'Willkommen bei OOSINC Annotator!',
   importData: 'Importiere einen Datensatz',
   createLabels: 'Erstelle Labels für dieses Projekt',
   addMembers: 'Mitglieder für kollaboratives Arbeiten hinzufügen',

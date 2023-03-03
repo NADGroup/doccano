@@ -1,7 +1,7 @@
 {
-  "name": "doccano",
+  "name": "OOSINC Annotator",
   "version": "1.0.0",
-  "description": "doccano is an open source annotation tools for machine learning practitioner.",
+  "description": "OOSINC Annotator is an open source annotation tools for machine learning practitioner.",
   "author": "Hironsan",
   "private": true,
   "scripts": {

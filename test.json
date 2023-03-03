@@ -1,0 +1,209 @@
+[{
+  "entities": [
+    {
+      "name": "1366年6月22日",
+      "type": "DATE",
+      "metadata": {},
+      "salience": 0.9,
+      "mentions": [
+        {
+          "text": {
+            "content": "1366年6月22日",
+            "beginOffset": 0
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "德黑兰",
+      "type": "PLACE",
+      "metadata": {},
+      "salience": 0.9,
+      "mentions": [
+        {
+          "text": {
+            "content": "德黑兰",
+            "beginOffset": 11
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "工程师",
+      "type": "ORGANIZATION",
+      "metadata": {},
+      "salience": 0.9,
+      "mentions": [
+        {
+          "text": {
+            "content": "工程师",
+            "beginOffset": 19
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "Hossein Akhlaqpour",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.9,
+      "mentions": [
+        {
+          "text": {
+            "content": "Hossein Akhlaqpour",
+            "beginOffset": 47
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "斯坦福大学",
+      "type": "PLACE",
+      "metadata": {},
+      "salience": 0.9,
+      "mentions": [
+        {
+          "text": {
+            "content": "斯坦福大学",
+            "beginOffset": 69
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "IntApp",
+      "type": "PLACE",
+      "metadata": {},
+      "salience": 0.9,
+      "mentions": [
+        {
+          "text": {
+            "content": "IntApp",
+            "beginOffset": 92
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "+989127953485",
+      "type": "PHONE",
+      "metadata": {},
+      "salience": 0.9,
+      "mentions": [
+        {
+          "text": {
+            "content": "+989127953485",
+            "beginOffset": 110
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "+982122961967",
+      "type": "PHONE",
+      "metadata": {},
+      "salience": 0.9,
+      "mentions": [
+        {
+          "text": {
+            "content": "+982122961967",
+            "beginOffset": 128
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "razzaghi229@gmail.com",
+      "type": "EMAIL",
+      "metadata": {},
+      "salience": 0.9,
+      "mentions": [
+        {
+          "text": {
+            "content": "razzaghi229@gmail.com",
+            "beginOffset": 145
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "+982144556677",
+      "type": "FAX",
+      "metadata": {},
+      "salience": 0.9,
+      "mentions": [
+        {
+          "text": {
+            "content": "+982144556677",
+            "beginOffset": 171
+          },
+          "type": "COMMON"
+        }
+      ]
+    }
+  ]
+},
+
+{
+  "ok": [
+    {
+      "label": "DATE",
+      "start_offset": 0,
+      "end_offset": 10
+    },
+    {
+      "label": "PLACE",
+      "start_offset": 11,
+      "end_offset": 14
+    },
+    {
+      "label": "ORGANIZATION",
+      "start_offset": 19,
+      "end_offset": 22
+    },
+    {
+      "label": "PERSON",
+      "start_offset": 47,
+      "end_offset": 65
+    },
+    {
+      "label": "PLACE",
+      "start_offset": 69,
+      "end_offset": 74
+    },
+    {
+      "label": "PLACE",
+      "start_offset": 92,
+      "end_offset": 98
+    },
+    {
+      "label": "PHONE",
+      "start_offset": 110,
+      "end_offset": 123
+    },
+    {
+      "label": "PHONE",
+      "start_offset": 128,
+      "end_offset": 141
+    },
+    {
+      "label": "EMAIL",
+      "start_offset": 145,
+      "end_offset": 166
+    },
+    {
+      "label": "FAX",
+      "start_offset": 171,
+      "end_offset": 184
+    },
+  ]
+}]
